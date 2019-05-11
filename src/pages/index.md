@@ -11,8 +11,8 @@ mainpitch:
     forces. Business is needing to transform faster than it has ever needed to
     achieve before.
 description: >-
-  Read [How To Speak Machine](https://howtospeakmachine.com) to get the basics
-  of computation, to start. 
+  Read <a href="https://howtospeakmachine.com">How To Speak Machine</a> to get
+  the basics of computation, to start. 
 intro:
   blurbs:
     - image: /img/coffee.png
