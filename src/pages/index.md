@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: What should I know?
 subheading: 'Computation Experience, Customer Experience, Consumer Experience'
 mainpitch:
-  title: Why care about CX?
+  title: Why should you care about CX?
   description: >-
     What we consume today as customers is being impacted by computational
     forces. Business is needing to transform faster than it has ever needed to
