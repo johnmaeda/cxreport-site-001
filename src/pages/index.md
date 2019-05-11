@@ -3,7 +3,9 @@ templateKey: index-page
 title: What is CX?
 image: /img/home-jumbotron.jpg
 heading: What should I know?
-subheading: 'Computation Experience, Customer Experience, Consumer Experience'
+subheading: >-
+  Computational Experience, Colocated Experience, Commerce Experience, Customer
+  Experience, Consumer Experience 
 mainpitch:
   title: Why should you care about CX?
   description: >-
